@@ -9,16 +9,16 @@ Problem :
     for every number which is divisible by 3 print BUZZ
     for every number which is divisible by both 2 / 3 print FIZZBUZZ
 
-    ``` Note there could be other variations to this same question```
+     Note there could be other variations to this same question
 
 ## Approaches
     Approach I : Naive appraoch
-        ``` check func --->  fizzBuzz  in FizzBuzz.js ```
+         check func --->  fizzBuzz  in FizzBuzz.js 
     Approach II : Competitive appraoch
-        ``` check func --->  fizzBuzz  in FizzBuzz.js ```
+         check func --->  fizzBuzz  in FizzBuzz.js / FizzBuzz.go
     Wether to apply Module or not apply module is the key as it saves time complexity.
 
 # Clone and Run
     Note : n is passed as args
-    ``` node FIZZBUZZ.js 10 ```
+     node FIZZBUZZ.js 10 
 
