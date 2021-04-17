@@ -16,7 +16,7 @@ Problem :
          check func --->  fizzBuzz  in FizzBuzz.js 
     Approach II : Competitive appraoch
          check func --->  fizzBuzz  in FizzBuzz.js / FizzBuzz.go
-    Wether to apply Module or not apply module is the key as it saves time complexity.
+    Whether to apply Module or not apply module is the key as it saves time complexity.
 
 # Clone and Run
     Note : n is passed as args
