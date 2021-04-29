@@ -12,12 +12,11 @@ Problem :
      Note there could be other variations to this same question
 
 ## Approaches
-    Approach I : Naive appraoch
+    Approach I :
          check func --->  fizzBuzz  in FizzBuzz.js 
-    Approach II : Competitive appraoch
+    Approach II : 
          check func --->  fizzBuzz  in FizzBuzz.js / FizzBuzz.go
-    Whether to apply Module or not apply module is the key as it saves time complexity.
-
+    
 # Clone and Run
     Note : n is passed as args
      node FIZZBUZZ.js 10 
